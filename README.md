@@ -1,2 +1,4 @@
-# tito-http
+# tito-http   
+[![Build Status](https://travis-ci.org/adityamedhe/tito-http.svg?branch=master)](https://travis-ci.org/adityamedhe/tito-http)
+---
 A well documented HTTP Server implementation in NodeJS using TypeScript meant for those who want to learn and experiment with HTTP
