@@ -4,7 +4,10 @@
         "tslint:recommended"
     ],
     "jsRules": {},
-    "rules": {},
+    "rules": {
+        "quotemark": false,
+        "no-console": false
+    },
     "rulesDirectory": [],
     "linterOptions": {
         "exclude": [
